@@ -4,7 +4,7 @@
 **Plataforma:** QAzando Cursos <br>
 **Instrutor:** Herbert Soares
 
-Este curso oferece uma introdução abrangente aos testes de API usando o Playwright. Desenvolvido pela Microsoft, o Playwright é uma poderosa ferramenta de automação de testes que permite automatizar testes em navegadores da web, aplicativos de desktop e aplicativos móveis. 
+Este curso oferece uma introdução abrangente aos testes de API usando o Playwright. Desenvolvido pela Microsoft, o Playwright é uma poderosa ferramenta de automação de testes que permite automatizar testes em navegadores da web, aplicativos desktop e aplicativos móveis. 
 
 ## Conteúdo do curso
 
