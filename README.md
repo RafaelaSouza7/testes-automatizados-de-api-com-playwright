@@ -10,7 +10,8 @@ Este curso oferece uma introdução abrangente aos testes de API usando o Playwr
 
 - Fundamentos dos testes de API
 - Introdução ao Playwright
-- Configuração do ambiente de teste Automatização de testes de API com Playwright
+- Configuração do ambiente de teste
+- Automatização de testes de API com Playwright
 - Integração de testes de API em pipelines de CI/CD
 - Melhores práticas para testes de API e automação
 
@@ -28,6 +29,7 @@ This course provides a comprehensive introduction to API testing using Playwrigh
 
 - Fundamentals of API testing
 - Introduction to Playwright
-- Test environment setup and API test automation with Playwright
+- Test environment setup
+- API test automation with Playwright
 - Integration of API tests into CI/CD pipelines
 - Best practices for API testing and automation
